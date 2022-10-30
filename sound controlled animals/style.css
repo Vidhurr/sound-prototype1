@@ -1,0 +1,24 @@
+body{
+    font-family: 'Qwitcher Grypen', cursive;
+    background-color: rgb(66, 9, 156);
+}
+.header_div{
+    background: rgb(43, 255, 0);
+    color: rgb(206, 22, 151);
+}
+.header_div p{
+    letter-spacing: 2px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: cursive;
+    margin-top: 30px;
+    width: 150px;
+    letter-spacing:2px;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom :o;
+    width: 100px;
+}
